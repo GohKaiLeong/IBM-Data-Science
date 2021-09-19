@@ -1,7 +1,7 @@
 # IBM-Data-Science
-This repository contains the codes for the lab exercises and peer-reviewed assignments in the IBM Data Science Professional Certificate on Coursera, except for the capstone project
+This repository contains the lab exercises and peer-reviewed assignments in the IBM Data Science Professional Certificate on Coursera.
 
-There are 9 Courses in this Professional Certificate
+There are 9 Courses in this Professional Certificate (Completed on 11 July 2020):
 
 1. What is Data Science?
 
@@ -17,8 +17,8 @@ There are 9 Courses in this Professional Certificate
 
 7. Data Visualization with Python
 
-8. Machine Learning with Python (Also a part of IBM AI Engineering)
+8. Machine Learning with Python
 
-9. Applied Data Science Capstone (This is in a separate repository)
+9. Applied Data Science Capstone)
 
 Certificate: https://coursera.org/verify/professional-cert/XU4RBC4Z23J8
