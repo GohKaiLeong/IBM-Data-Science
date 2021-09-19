@@ -21,4 +21,4 @@ There are 9 Courses in this Professional Certificate
 
 9. Applied Data Science Capstone (This is in a separate repository)
 
-Link to Capstone Project: https://github.com/GohKaiLeong/Coursera_Capstone
+Certificate: https://coursera.org/verify/professional-cert/XU4RBC4Z23J8
