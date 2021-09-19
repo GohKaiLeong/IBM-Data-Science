@@ -19,6 +19,6 @@ There are 9 Courses in this Professional Certificate (Completed on 11 July 2020)
 
 8. Machine Learning with Python
 
-9. Applied Data Science Capstone)
+9. Applied Data Science Capstone
 
 Certificate: https://coursera.org/verify/professional-cert/XU4RBC4Z23J8
